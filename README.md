@@ -1,2 +1,2 @@
 # laurent
-my fist code
+my first code
